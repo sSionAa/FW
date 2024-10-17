@@ -414,5 +414,6 @@
 
 [**`Решение`**](https://github.com/sSionAa/FW/tree/main/Py)
 
-    ***
+***
+
 *Подготовил студент Geek Brains* [**`Томайлы Владимир`**](https://github.com/sSionAa)
